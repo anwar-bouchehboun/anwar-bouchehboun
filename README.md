@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Anwar Bouchehboun</h1>
 <h3 align="center">Enthusiastic front-end and Back-end developer from Morocco</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anouar-devlopeur&label=Profile%20views&color=0e75b6&style=flat" alt="anouar-devlopeur" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anwar-bouchehboun&label=Profile%20views&color=0e75b6&style=flat" alt="anwar-bouchehboun" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anouar-devlopeur" alt="anouar-devlopeur" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anwar-bouchehboun" alt="anwar-bouchehboun" /></a> </p>
 
 - 🌱 I’m currently learning **laravel and aspCore.net**
 
@@ -45,23 +45,26 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/anwar-bouchehboun/anwar-bouchehboun/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
 
 <hr/>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anwar-bouchehboun&show_icons=true&locale=en&layout=compact" alt="anwar-bouchehboun" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anwar-bouchehboun&show_icons=true&locale=en" alt="anwar-bouchehboun" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anwar-bouchehboun&" alt="anwar-bouchehboun" /></p>
+</div>
 
 
 <br/><br/>
 
 <hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
 
 <br/>
