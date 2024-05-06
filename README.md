@@ -3,10 +3,11 @@
 <h1 align="center">Hi 👋, I'm Anwar Bouchehboun</h1>
 <h3 align="center">Enthusiastic front-end and Back-end developer from Morocco</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anwar-bouchehboun&label=Profile%20views&color=0e75b6&style=flat" alt="anwar-bouchehboun" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anwar-bouchehboun" alt="anwar-bouchehboun" /></a> </p>
-
+<div class="flex gap-3 flex-wrap"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anwar-bouchehboun" alt="anwar-bouchehboun" /></a> </p>
+</div>
 - 🌱 I’m currently learning **laravel and aspCore.net**
 
 - 💬 Ask me about **Ado.net,Sqlserver,Asp.net**
