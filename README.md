@@ -19,7 +19,7 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/anouar-bouchehboun" target="_blank">
+  <a href="https://www.linkedin.com/in/anwar-bouchehboun" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anouar-bouchehboun" height="30" width="40" />
   </a>
   <a href="https://fb.com/bouchehboun.anouar95" target="_blank">
@@ -62,7 +62,7 @@
   <a href="mailto:anouar.ab95@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/anouar-bouchehboun" target="_blank">
+  <a href="https://www.linkedin.com/in/anwar-bouchehboun" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
