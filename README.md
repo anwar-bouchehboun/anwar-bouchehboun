@@ -70,7 +70,7 @@
 ---
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<div align="center flex gap-2">
+<div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anwar-bouchehboun&show_icons=true&locale=en&layout=compact" alt="anwar-bouchehboun" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anwar-bouchehboun&show_icons=true&locale=en" alt="anwar-bouchehboun" />
 </div>
